@@ -22,6 +22,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
+From: 04 June 2023 - To: 29 February 2024
+
+Total Time: 292 hrs 38 mins
+
+JavaScript        92 hrs 2 mins   ████████░░░░░░░░░░░░░░░░░   31.38 %
+CSS               80 hrs 31 mins  ███████░░░░░░░░░░░░░░░░░░   27.45 %
+HTML              78 hrs 51 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.88 %
+Markdown          14 hrs 7 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Java              13 hrs 20 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
 ###
 
 <div align="left">
