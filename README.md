@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ramanverma02" target="blank"><img src="https://img.shields.io/twitter/follow/ramanverma02?logo=twitter&style=for-the-badge" alt="ramanverma02" /></a> </p>
 
-- 🌱 I’m currently learning **Js**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **raman02verma@gmail.com**
 
